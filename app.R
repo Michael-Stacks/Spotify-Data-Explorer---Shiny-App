@@ -753,8 +753,6 @@ server <- function(input, output, session) {
     ggplotly(p)
   })
   
-  
-  
 }
 
 
